@@ -12,6 +12,9 @@
 - 👀 See what other users are listening to in real-time
 - 📊 Aggregate data for the analytics page
 
+### 🌐 Live Demo
+ [Check it out](https://chat-app-b9wo.onrender.com)
+
 ### Setup .env file in _backend_ folder
 
 ```bash
