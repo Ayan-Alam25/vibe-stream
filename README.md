@@ -13,7 +13,7 @@
 - 📊 Aggregate data for the analytics page
 
 ### 🌐 Live Demo
- [Check it out](https://chat-app-b9wo.onrender.com)
+ [Check it out](https://vibe-stream.onrender.com)
 
 ### Setup .env file in _backend_ folder
 
